@@ -1,0 +1,8 @@
+malook-ai/
+├── server.js
+├── package.json
+├── .env               <-- your OpenAI API key here (DO NOT upload this)
+└── public/
+    ├── index.html
+    ├── style.css
+    └── script.js
